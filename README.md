@@ -30,7 +30,7 @@
 4. Python
 ---
 ## 나의 자료구조 공부 링크
-[자료구조](https://www.github.com/HyukJunJi/data_struct)
+[같이 공부해요! 원하시면 fork!](https://www.github.com/HyukJunJi/data_struct)
 
 -----------
 
