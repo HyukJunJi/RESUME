@@ -22,20 +22,18 @@
 #### 취미
 > 스케이트보드타기
 >> 프로그램으로 작편곡하기
-
+---
 ## 사용 언어
 1. java
 2. C
 3. C++
 4. Python
- 
+---
 ## 나의 자료구조 공부 링크
 [자료구조](https://www.github.com/HyukJunJi/data_struct)
 
 -----------
-* jupyer notebook
-* tensorflow  
-------
+
 ### 관심있는 사이트 목록
 [한림대학교][hallym]
 
@@ -43,12 +41,6 @@
 [네이버][naver]  
 [구글][google]  
 
-
-|| |도구|
-|:---:|---|---|
-|1|[자바](https://www.oracle.com)|[이클립스][eclipse]|
-|2|C|비주얼스튜디오|
-|3|C++|비주얼스튜디오|
 
 [eclipse]:https://www.eclipse.org
 [google]:https://www.google.com
