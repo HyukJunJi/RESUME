@@ -1,13 +1,13 @@
-# RESUME ( hyukjun )
+# 한림대학교 소프트웨어융합대학
 ## 개인 이력사항
 #### 이름 : 지혁준
-#### email : whrnjsrkdls@gmail.com
-#### university : hallym university
+#### 수업 : 오픈소스SW의이해
+#### 이메일 : whrnjsrkdls@gmail.com
+------------------------
 
-> 취미
->> 스키  
->> 낚시  
->> 여행  
+#### 취미
+> 스케이트보드타기
+>> 프로그램으로 작편곡하기
 
 ## 사용 언어
 1. java
@@ -19,9 +19,15 @@
 * 오픈소스
 * 딥러닝
 * 블록체인
-----------------
+
+![cat icon](/cat.gif)
+
+<img src=cat.gif width=200 height=100>
+
+
 ## 오픈소스 커뮤니티 정리파일
 [오픈소스 커뮤니티 파일](openSourcecommunity.md)
+
 -----------
 * jupyer notebook
 * tensorflow  
