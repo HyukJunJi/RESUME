@@ -2,6 +2,9 @@
 <img src="https://img.shields.io/github/followers/HyukJunJi?style=social"/></a>
 <img src=mypic.jpg height=200 width=300>
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 ## 개인 이력사항
 #### 이름 : 지혁준
 #### 전공 : 콘텐츠 IT
