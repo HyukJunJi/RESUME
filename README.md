@@ -2,7 +2,8 @@
 <img src="https://img.shields.io/github/followers/HyukJunJi?style=social"/></a>
 <img src=mypic.jpg height=200 width=300>
 
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+
 
 
 ## 개인 이력사항
