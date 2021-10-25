@@ -1,5 +1,5 @@
 # 한림대학교 소프트웨어융합대학
-
+https://img.shields.io/github/followers/HyukJunJi?style=social
 <img src=mypic.jpg height=200 width=300>
 
 ## 개인 이력사항
