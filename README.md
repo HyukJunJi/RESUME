@@ -7,7 +7,7 @@
 #### 전공 : 콘텐츠 IT
 #### 이메일 : whrnjsrkdls@gmail.com
 ------------------------
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyukJunJi)](https://github.com/anuraghazra/github-readme-stats)
 #### 취미
 > 스케이트보드타기
 >> 프로그램으로 작편곡하기
