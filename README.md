@@ -1,8 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving)
 # 한림대학교 소프트웨어융합대학  
 <img src="https://img.shields.io/github/followers/HyukJunJi?style=social"/></a>
 <img src=mypic.jpg height=200 width=300>
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+
 
 
 
