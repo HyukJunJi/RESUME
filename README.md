@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?text=한림대학교소프웨어융합대학&animation=fadeIn&type=waving&height=300&width=1000&fontSize=50)
+![header](https://capsule-render.vercel.app/api?text=Hyuk_Jun_Ji&animation=fadeIn&type=waving&height=300&width=1000&fontSize=100&color=gradient)
+
 
 
 <img src="https://img.shields.io/github/followers/HyukJunJi?style=social"/></a>
