@@ -2,8 +2,8 @@
 <img src="https://img.shields.io/github/watchers/HyukJunJi/RESUME?style=social"/></a>  
 <img src="https://img.shields.io/github/stars/HyukJunJi?style=social"/></a>  
 <img src="https://img.shields.io/github/followers/HyukJunJi?style=social"/></a>  
-<img src="https://img.shields.io/github/forks/HyukJunJi/RESUME?style=social"/></a>
-<img src=mypic.jpg height=200 width=300>
+<img src="https://img.shields.io/github/forks/HyukJunJi/RESUME?style=social"/></a>  
+　　　　　　　　　　　　　　　　<img src=mypic.jpg height=200 width=300>
 
 
 
