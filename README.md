@@ -6,10 +6,6 @@
 　　　　　　　　　　　　　　　　　<img src="https://img.shields.io/github/forks/HyukJunJi/RESUME?style=social"/></a>  
 　　　　　　　　　　　　　　　　
 
-
-
-
-
 ## 개인 이력사항
 #### 이름 : 지혁준
 #### 전공 : 콘텐츠 IT
