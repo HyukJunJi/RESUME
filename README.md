@@ -1,9 +1,10 @@
-![header](https://capsule-render.vercel.app/api?text=Hyuk_Jun_Ji&animation=fadeIn&type=waving&height=300&width=1000&fontSize=100&color=gradient)  
-<img src="https://img.shields.io/github/watchers/HyukJunJi/RESUME?style=social"/></a>  
-<img src="https://img.shields.io/github/stars/HyukJunJi?style=social"/></a>  
-<img src="https://img.shields.io/github/followers/HyukJunJi?style=social"/></a>  
-<img src="https://img.shields.io/github/forks/HyukJunJi/RESUME?style=social"/></a>  
-　　　　　　　　　　　　　　　　<img src=mypic.jpg height=200 width=300>
+![header](https://capsule-render.vercel.app/api?text=Hyuk&nbsp;Jun&nbsp;Ji&animation=fadeIn&type=waving&height=300&width=1000&fontSize=100&color=gradient)  
+　　　　　　　　　　　　　　　　　<img src=mypic.jpg height=200 width=300>  
+　　　　　　　　　　　　　　　　　<img src="https://img.shields.io/github/watchers/HyukJunJi/RESUME?style=social"/></a>  
+　　　　　　　　　　　　　　　　　<img src="https://img.shields.io/github/stars/HyukJunJi?style=social"/></a>  
+　　　　　　　　　　　　　　　　　<img src="https://img.shields.io/github/followers/HyukJunJi?style=social"/></a>  
+　　　　　　　　　　　　　　　　　<img src="https://img.shields.io/github/forks/HyukJunJi/RESUME?style=social"/></a>  
+　　　　　　　　　　　　　　　　
 
 
 
