@@ -2,6 +2,7 @@
 
 <a href="https://www.eclipse.org/"><img src="https://img.shields.io/badge/Eclipse-FF8C00?style=for-the-badge&logo=Eclipse IDE&logoColor=2C2255"/></a>
                  <a href="https://www.java.com/ko/"><img src="https://img.shields.io/badge/Java-FF4500?style=for-the-badge&logo=Java&logoColor=007396"/></a>
+                 <img src="https://img.shields.io/badge/C++-00FFFF?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/> 
 <p align="center"><img src=mypic.jpg height=200 width=300></p>
 <p align="center"><a href="https://github.com/HyukJunJi"><img src="https://img.shields.io/badge/My&nbsp;GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white"/></a></p>
 <p align="center"><img src="https://img.shields.io/github/watchers/HyukJunJi/RESUME?style=social"/></a></p>
