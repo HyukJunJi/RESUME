@@ -28,9 +28,9 @@
                  
 ### <p align="center">👦개인 이력사항👦</p>
 #### <p align="center">이름 : <a href="https://github.com/HyukJunJi"><img src="https://img.shields.io/badge/지혁준-white?style=for-the-badge"/></a></p>
-#### <p align="center">학교 : <a href="https://www.hallym.ac.kr/?mp=2_3"><img src="https://img.shields.io/badge/한림대학교-white?style=for-the-badge"/></a></p>
+#### <p align="center">학교 : <a href="https://www.hallym.ac.kr/"><img src="https://img.shields.io/badge/한림대학교-white?style=for-the-badge"/></a></p>
 #### <p align="center">전공 : ⌨<a href="https://sw.hallym.ac.kr/index.php?mp=2_3"><img src="https://img.shields.io/badge/콘텐츠 IT-white?style=for-the-badge"/></a></p>
-#### <p align="center">이메일 : <a href="whrnjsrkdls@gmail.com"><img src="https://img.shields.io/badge/My&nbsp;Gmail-white?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a></p>
+#### <p align="center">이메일 : <a href="mailto:whrnjsrkdls@gmail.com"><img src="https://img.shields.io/badge/My&nbsp;Gmail-white?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a></p>
 #### 취미
 > ##### 스케이트 보드
 ### 🛹🛹🛹
