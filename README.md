@@ -18,7 +18,7 @@
 ### <p align="center">🖼My Pic🖼</p>
 <p align="center"><img src=mypic.jpg height=200 width=300></p>
 <p align="center"><a href="https://www.instagram.com/eden_hyukjun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-   <a href="https://www.facebook.com/profile.php?id=100004091179797"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100004091179797"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="mailto:whrnjsrkdls@gmail.com"><img src="https://img.shields.io/badge/My&nbsp;Gmail-E6E6FA?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a>
 <a href="https://github.com/HyukJunJi"><img src="https://img.shields.io/badge/My&nbsp;GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white"/></a></p>
 <p align="center"><img src="https://img.shields.io/github/watchers/HyukJunJi/RESUME?style=social"/></a>
@@ -49,17 +49,28 @@
 --------
 ## <p align="center">📖나의 자료구조 공부 링크📖</p>
 <p align="center"><a href="https://www.github.com/HyukJunJi/data_struct/"><img src="https://img.shields.io/badge/같이 공부해요! 원하시면 fork!-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/></a></p>
+<p align="center"><img src="https://img.shields.io/github/watchers/HyukJunJi/data_struct?style=social"/>
+<img src="https://img.shields.io/github/forks/HyukJunJi/data_struct?style=social"/>
+<img src="https://img.shields.io/github/stars/HyukJunJi/data_struct?style=social"/></p> 
 
 -----------
 
-### 관심있는 사이트 목록
-[한림대학교][hallym]
-
+### 자주 사용하는 사이트 목록
+[한림대학교][hallym]  
+[한림대학교 소프트웨어융합대학][hallymsw]  
+[한림대학교 Become][hallymbecome]  
+[한림대학교 소프트웨어중심사업단][hallymswCenter]  
+[한림대학교 학생생활관][hallymdorm]  
+[한림대학교 스마트리드][smartlead]  
 ### 주요 검색사이트
 [네이버][naver]  
 [구글][google]  
 
-
+[smartlead]:https://smartlead.hallym.ac.kr/login.php
+[hallymdorm]:https://dorm.hallym.ac.kr/dormitory/index.do
+[hallymswCenter]:https://hlsw.hallym.ac.kr/
+[hallymbecome]:http://become.hallym.ac.kr/login.jsp?prevurl=
+[hallymsw]:https://sw.hallym.ac.kr
 [eclipse]:https://www.eclipse.org
 [google]:https://www.google.com
 [naver]:https://www.naver.com
