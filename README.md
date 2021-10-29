@@ -22,7 +22,7 @@
 <p align="center"><img src="https://img.shields.io/github/stars/HyukJunJi?style=social"/></a></p>
 <p align="center"><img src="https://img.shields.io/github/followers/HyukJunJi?style=social"/></a></p>
 <p align="center"><img src="https://img.shields.io/github/forks/HyukJunJi/RESUME?style=social"/></a></p>
-<p align="center"><a href="whrnjsrkdls@gmail.com"><img src="https://img.shields.io/badge/My&nbsp;Gmail-E6E6FA?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a></p>
+<p align="center"><a href="mailto:whrnjsrkdls@gmail.com"><img src="https://img.shields.io/badge/My&nbsp;Gmail-E6E6FA?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a></p>
 
 ---------
                  
