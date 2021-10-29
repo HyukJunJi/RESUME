@@ -51,7 +51,7 @@
 ------------------------
 ### <p align="center">📊Most Used Language And Github Stats📊</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyukJunJi)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyukJunJi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyukJunJi)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 --------
 ## <p align="center">📖나의 자료구조 공부 링크📖</p>
