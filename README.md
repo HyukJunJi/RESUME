@@ -34,7 +34,13 @@
 #### <p align="center">학교 : <a href="https://www.hallym.ac.kr/"><img src="https://img.shields.io/badge/한림대학교-white?style=for-the-badge"/></a></p>
 #### <p align="center">전공 : ⌨<a href="https://sw.hallym.ac.kr/index.php?mp=2_3"><img src="https://img.shields.io/badge/콘텐츠 IT-white?style=for-the-badge"/></a></p>
 #### <p align="center">이메일 : <a href="mailto:whrnjsrkdls@gmail.com"><img src="https://img.shields.io/badge/My&nbsp;Gmail-white?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a></p>
-#### 취미
+--------  
+### <p align="center">🎈장래희망🎈</p>
+#### <p align="center">아직 2학년이어서 정확히 정하진 못하였지만 게임 개발자 또는 정보보안전문가를 희망합니다. </p>
+#### <p align="center">그래서 3학년이 되면 관련 분야를 수강하여 폭 넓은 지식을 바탕으로 꿈을 이룰 것입니다.</p>
+
+-------  
+### <p align="center">🎨취미🎨</p>
 > ##### 스케이트 보드
 ### 🛹🛹🛹
 > ##### 프로그램으로 작편곡하기
