@@ -43,7 +43,7 @@
 -------  
 ### <p align="center">🎨취미🎨</p>
 > ##### 스케이트 보드
-### 🛹🛹🛹
+### 🛹<img src=skate.jpg height=130 width=200>🛹
 > ##### 프로그램으로 작편곡하기
 ### 🎶<a href="https://soundcloud.com/yj-j-4/no-vocal-no-master-no-name"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=SoundCloud&logoColor=white"/></a>🎶
 
