@@ -35,17 +35,17 @@
 #### <p align="center">전공 : ⌨<a href="https://sw.hallym.ac.kr/index.php?mp=2_3"><img src="https://img.shields.io/badge/콘텐츠 IT-white?style=for-the-badge"/></a></p>
 #### <p align="center">이메일 : <a href="mailto:whrnjsrkdls@gmail.com"><img src="https://img.shields.io/badge/My&nbsp;Gmail-white?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a></p>
 --------  
-### <p align="center">🎈장래희망🎈</p>
+<!--### <p align="center">🎈장래희망🎈</p>
 #### <p align="center">아직 2학년이어서 정확히 정하진 못하였지만 게임 개발자 또는 정보보안전문가가 되고싶습니다. </p>
 #### <p align="center">아직 많이 부족해서 프로젝트로 못해보고 스펙이 많이 부족하지만</p>
-#### <p align="center">3학년이 되면 관련 분야를 수강하고 프로젝트를 통해 폭 넓은 지식을 바탕으로 꿈을 이룰 것입니다.</p>
+#### <p align="center">3학년이 되면 관련 분야를 수강하고 프로젝트를 통해 폭 넓은 지식을 바탕으로 꿈을 이룰 것입니다.</p>-->
 
 -------  
-### <p align="center">🎨취미🎨</p>
+<!--### <p align="center">🎨취미🎨</p>
 > ##### 스케이트 보드
 ### 🛹<img src=skate.jpg height=130 width=200>🛹
 > ##### 프로그램으로 작편곡하기
-### 🎶<a href="https://soundcloud.com/yj-j-4/no-vocal-no-master-no-name"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=SoundCloud&logoColor=white"/></a>🎶
+### 🎶<a href="https://soundcloud.com/yj-j-4/no-vocal-no-master-no-name"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=SoundCloud&logoColor=white"/></a>🎶-->
 
 
 ------------------------
@@ -63,13 +63,13 @@
 
 -----------
 
-### 자주 사용하는 사이트 목록
+<!--### 자주 사용하는 사이트 목록
 [한림대학교][hallym]  
 [한림대학교 소프트웨어융합대학][hallymsw]  
 [한림대학교 Become][hallymbecome]  
 [한림대학교 소프트웨어중심사업단][hallymswCenter]  
 [한림대학교 학생생활관][hallymdorm]  
-[한림대학교 스마트리드][smartlead]  
+[한림대학교 스마트리드][smartlead]  -->
 ### 주요 검색사이트
 [네이버][naver]  
 [구글][google]  
